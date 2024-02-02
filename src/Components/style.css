@@ -1,0 +1,31 @@
+.contai-flag:hover{
+
+box-shadow: 0px 0px 5px 5px rgb(199, 41, 41);
+transform: scale(1.2);
+/* transform: scale(1.1); 
+transform: scale(1.1); */
+transition: transform .4s;
+}
+
+nav.navbar.navbar-expand-lg.bg-dark.py-3 .border-bottom.border-light {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+  button#tabs-tab-jp {
+    margin-top: 37px;
+}
+button#tabs-tab-ca {
+  margin-top: 37px;
+}
+button#tabs-tab-ng {
+  margin-top: 37px;
+}
+button#tabs-tab-ru {
+  margin-top: 37px;
+}
+button#tabs-tab-rs {
+  margin-top: 37px;
+}
